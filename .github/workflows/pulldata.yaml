@@ -26,15 +26,13 @@ jobs:
           ))
       shell: Rscript {0}
          
-# Run scripts
+# Run Sepa script first
     - name: Sepa API
       run: |
           source('scripts/RainfallSEPA.R')
       shell: Rscript {0}
     
       
-    
-      
  # commit & push
     - name: Commit files
       run: |
@@ -47,24 +45,4 @@ jobs:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
 
-    - name: Rainfall
-      run: |
-          source('scripts/RainfallSEPA.R')
-      shell: Rscript {0}
-
-    - name: Waterlevels
-      run: |
-          source('scripts/WaterLevelsSEPA.R')
-      shell: Rscript {0}
-
- # commit & push
-    - name: Commit files
-      run: |
-        git config --local user.name actions-user
-        git config --local user.email "actions@github.com"
-        git add data/*
-        git commit -am "GH ACTION Headlines $(date)"
-        git push origin main
-      env:
-        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-        username: github-actions
+   
