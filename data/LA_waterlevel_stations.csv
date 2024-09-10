@@ -1,0 +1,394 @@
+fid,station_name,station_no,catchment_name,river_name,station_latitude,station_longitude,local_auth
+"1",Abbey St Bathans,"15018",Tweed,Whiteadder Water,55.85329633,-2.387448356,Scottish Borders
+"2",Aberlour,"234150",Spey,Spey,57.48021805,-3.205975095,Moray
+"3",Aberuchill,"14966",Earn,Earn,56.37078118,-4.019153819,Perth and Kinross
+"4",Aberuthven,"14969",Earn,Ruthven Water,56.31968188,-3.658685969,Perth and Kinross
+"5",Abington,"322551",Clyde,Clyde,55.48691533,-3.69056827,South Lanarkshire
+"6",Aboyne,"302205",Dee (Aberdeenshire),Tarland Burn,57.07726163,-2.771636889,Aberdeenshire
+"7",Airyhemming,"133141",Cree,Water of Luce,54.90049986,-4.839842855,Dumfries and Galloway
+"8",Alford,"234170",Don (Aberdeenshire),Don,57.24230294,-2.717123004,Aberdeenshire
+"9",Allnabad,"234151",Naver group,Strathmore,58.34717676,-4.644621014,Highland
+"10",Allt a' Ghlas-charnaich,"368538",Conon Group,Allt a Ghlas-chamaich,57.70934072,-4.836082499,Highland
+"11",Almondbank,"14954",Tay,Almond (Tayside),56.41527516,-3.51359839,Perth and Kinross
+"12",Almondbank at Main Street,"535347",Tay,Almond (Tayside),56.41717637,-3.516105507,Perth and Kinross
+"13",Almondell,"14869",Almond Group,Almond (Lothian),55.90181846,-3.463017734,West Lothian
+"14",Alness,"234152",Conon Group,Alness,57.69601068,-4.258760757,Highland
+"15",Ancrum,"15002",Tweed,Ale Water,55.51244139,-2.580776051,Scottish Borders
+"16",Anie,"14888",Forth,Leny,56.25788155,-4.285414699,Stirling
+"17",Apigill,"234153",Naver group,Naver,58.48007214,-4.207749187,Highland
+"18",Arbroath,"14922",Esk Group,Brothock Water,56.56723031,-2.588171626,Angus
+"19",Arcan Spillway,"234154",Conon Group,Conon,57.55332889,-4.550906092,Highland
+"20",Ardachy Bridge,"234155",Ness,Tarff,57.12952381,-4.678200965,Highland
+"21",Ariundle,"234157",Loch Sheil Group,Strontian,56.70722202,-5.556782552,Highland
+"22",Athelstaneford,"372871",Tyne (Lothian),Cogtail Burn,55.9852479,-2.736326688,East Lothian
+"23",Auchendrane,"133060",Doon Group,Doon,55.40997977,-4.627054661,South Ayrshire
+"24",Auchengeich,"133061",Clyde,Bothlin Burn,55.91939055,-4.114140851,East Dunbartonshire
+"25",Auchinner,"14964",Earn,Allt Srath a Ghlinne,56.31678388,-4.112254665,Perth and Kinross
+"26",Auchnafree,"14952",Tay,Almond (Tayside),56.47302976,-3.904678161,Perth and Kinross
+"27",Avochie,"234161",Deveron Group,Deveron,57.50564634,-2.782377895,Aberdeenshire
+"28",Avonbank,"322556",Clyde,Avon Water,55.66347112,-4.051617294,South Lanarkshire
+"29",Balbrogie,"14947",Tay,Isla (Tayside),56.57225831,-3.240802881,Perth and Kinross
+"30",Balfour Mains,"14894",Firth of Forth Group,Ore,56.1847332,-3.08157055,Fife
+"31",Ballachraggan,"516803",Findhorn Group,Lossie,57.52824441,-3.451567365,Moray
+"32",Ballathie,"14937",Tay,Tay,56.5144141,-3.386963945,Perth and Kinross
+"33",Balmacneil,"14938",Tay,Tay,56.63825013,-3.664198017,Perth and Kinross
+"34",Balmossie,"14919",Firth of Tay Group,Dighty Water,56.48175497,-2.85166534,Dundee City
+"35",Balnaan,"234163",Spey,Dulnain,57.30214571,-3.699157201,Highland
+"36",Balnafoich,"206846",Findhorn Group,Nairn,57.38787077,-4.188250573,Highland
+"37",Balnowlart,"133062",Doon Group,Stinchar,55.10717871,-4.968322113,South Ayrshire
+"38",Bannockburn,"14897",Forth,Bannock Burn,56.09528478,-3.911816854,Stirling
+"39",Barnaline Lodge,"133063",Awe and Etive,Avich,56.27473893,-5.278048706,Argyll and Bute
+"40",Barsolus,"133142",Cree,Piltanton Burn,54.8658531,-4.951330607,Dumfries and Galloway
+"41",Beattock,"133143",Annan,Evan Water,55.31167269,-3.456710814,Dumfries and Galloway
+"42",Blairston,"133064",Clyde,Clyde,55.79734306,-4.068305537,South Lanarkshire
+"43",Boat o  Brig,"234167",Spey,Spey,57.55104115,-3.140387991,Moray
+"44",Boat of Garten,"234168",Spey,Spey,57.25078305,-3.746867237,Highland
+"45",Boleside,"533744",Tweed,Tweed,55.59164323,-2.798878774,Scottish Borders
+"46",Bonnybridge,"14885",Firth of Forth Group,Bonny Water,56.00182143,-3.886990553,Falkirk
+"47",Borgie Bridge,"234334",Naver group,Borgie,58.49740038,-4.279784356,Highland
+"48",Braevallich,"133065",Awe and Etive,Abhainn a Bhealaich,56.21639554,-5.296246434,Argyll and Bute
+"49",Braidlie,"133144",Esk (Dumfriesshire),Hermitage Water,55.26142915,-2.824951121,Scottish Borders
+"50",Brechin,"14917",Esk Group,South Esk (Angus),56.72692276,-2.655900389,Angus
+"51",Bridge of Allan,"14889",Forth,Allan Water,56.15901974,-3.956367475,Stirling
+"52",Bridge of Earn,"14971",Earn,Earn,56.3497307,-3.402582026,Perth and Kinross
+"53",Bridge of Oich,"234172",Ness,Loch Oich,57.09229844,-4.74425988,Highland
+"54",Bridge of Teith,"14887",Forth,Teith,56.18573476,-4.055574525,Stirling
+"55",Bridgemuir,"133145",Annan,Kinnel Water,55.14632871,-3.428225271,Dumfries and Galloway
+"56",Bridgend,"133066",Clyde,Kelvin,55.94910632,-4.129006198,East Dunbartonshire
+"57",Brighouse Burn,"321630",Cree,Brighouse Burn,54.78864247,-4.117404209,Dumfries and Galloway
+"58",Brockhoperig,"14987",Tweed,Ettrick Water,55.4061286,-3.211513384,Scottish Borders
+"59",Brodie,"234173",Findhorn Group,Muckle Burn,57.59244808,-3.708878989,Moray
+"60",Broxmouth,"15029",Tyne (Lothian),Brox Burn (East Lothian),55.99077195,-2.48676507,East Lothian
+"61",Bruachrobie,"234174",Helmsdale Group,Brora,58.0105569,-3.877565412,Highland
+"62",Brydekirk,"133146",Annan,Annan,55.02165102,-3.267726412,Dumfries and Galloway
+"63",Burrelton Burn,"368492",Forth,Burrelton Burn,56.5211801,-3.294527587,Perth and Kinross
+"64",Cabrach,"234176",Deveron Group,Allt Deveron,57.34816,-3.034565786,Moray
+"65",Cademuir,"14977",Tweed,Manor Water,55.61926614,-3.244232636,Scottish Borders
+"66",Calderpark,"133069",Clyde,North Calder Water,55.83754619,-4.10777909,North Lanarkshire
+"67",Callander,"14911",Forth,Teith,56.2422863,-4.214924958,Stirling
+"68",Camisky,"234178",Lochy (Invernesshire),Lochy (Lochaber),56.87846936,-5.046521526,Highland
+"69",Camusvrachan,"14950",Tay,Lyon,56.60039168,-4.250199477,Perth and Kinross
+"70",Candermill,"133070",Clyde,Cander Water,55.70088757,-3.966908369,South Lanarkshire
+"71",Canonbie,"133148",Esk (Dumfriesshire),Esk (Solway),55.0662645,-2.946231369,Dumfries and Galloway
+"72",Capenoch,"133149",Nith,Scar Water,55.22736754,-3.817044727,Dumfries and Galloway
+"73",Caputh,"14936",Tay,Tay,56.53919737,-3.492942476,Perth and Kinross
+"74",Carron (Stonehaven),"320374",Esk Group,Carron Water,56.96221164,-2.216208291,Aberdeenshire
+"75",Carron upstream (Stonehaven),"565197",Esk Group,Carron,56.96155865,-2.219756428,Aberdeenshire
+"76",Castle O'er,"506142",Esk (Dumfriesshire),White Esk,55.22290808,-3.180030664,Dumfries and Galloway
+"77",Castlehill Reservoir,"14908",Forth,Devon,56.2092222,-3.60889654,Perth and Kinross
+"78",Catrine,"133071",Irvine and Ayr,Ayr,55.50462561,-4.336590474,East Ayrshire
+"79",Caulkerbush,"116013",Dee (Galloway),Southwick Burn,54.89874408,-3.672536736,Dumfries and Galloway
+"80",Chapeltoun Gauging Station,"541851",Irvine and Ayr,Annick Water,55.6639264,-4.554890682,East Ayrshire
+"81",Charr,"234183",Dee (Aberdeenshire),Water of Dye,56.94084906,-2.619402267,Aberdeenshire
+"82",Chesters,"15004",Tweed,Jed Water,55.37862961,-2.589607681,Scottish Borders
+"83",Claggan,"116011",Loch Linnhe Group,Nevis,56.82151065,-5.088839432,Highland
+"84",Cleuchhead,"499810",Esk Group,Carron,56.94774412,-2.388756894,Aberdeenshire
+"85",Coldstream,"15013",Tweed,Leet Water,55.64977661,-2.256597919,Scottish Borders
+"86",Colinton,"14880",Almond Group,Water of Leith,55.90575791,-3.262141625,City of Edinburgh
+"87",Colliston,"14921",Esk Group,Colliston Burn,56.61000991,-2.637841019,Angus
+"88",Comrie Bridge,"14951",Tay,Lyon,56.61422921,-3.980864711,Perth and Kinross
+"89",Condorrat,"133072",Clyde,Luggie Water,55.92951508,-4.019603678,North Lanarkshire
+"90",Conon Bridge,"234185",Conon Group,Conon,57.5694305,-4.440534753,Highland
+"91",Corrievuic,"472872",Conon Group,Meig,57.51349507,-5.001875565,Highland
+"92",Cowbridge,"5981",Almond Group,South Esk (Lothian),55.89709776,-3.05890347,Midlothian
+"93",Craig Douglas,"14983",Tweed,Yarrow Water,55.5086,-3.1265,Scottish Borders
+"94",Craigard,"234189",Ness,Garry (Ness),57.06557358,-4.822135914,Highland
+"95",Craigend,"133073",Clyde,Gryfe,55.86450249,-4.534803989,Renfrewshire
+"96",Craigendarroch,"356326",Loch Sheil Group,Aline,56.56990238,-5.749845756,Highland
+"97",Craigforth,"4638",Forth,Forth,56.1360998,-3.970218251,Stirling
+"98",Craighall (Perth),"14956",Tay,Ericht,56.60905796,-3.347175751,Perth and Kinross
+"99",Craigiehall,"14867",Almond Group,Almond (Lothian),55.96313343,-3.338532726,City of Edinburgh
+"100",Creed Bridge,"234190",Outer Hebrides,Creed,58.20454028,-6.424227928,Na h-Eileanan an Iar
+"101",Crieff,"520119",Earn,Earn,56.36081905,-3.847275886,Perth and Kinross
+"102",Crimmonmogate,"533741",Ythan Group,Savoch Burn,57.61852769,-1.928524204,Aberdeenshire
+"103",Culfork,"234191",Don (Aberdeenshire),Don,57.18022427,-3.11016313,Aberdeenshire
+"104",Cullen,"234192",Deveron Group,Burn of Deskford,57.68712295,-2.83323079,Moray
+"105",Cultybraggan,"14965",Earn,Ruchill Water,56.35972783,-4.001442447,Perth and Kinross
+"106",Cunninghamhead,"538826",Irvine and Ayr,Annick Water,55.64794589,-4.584018331,North Ayrshire
+"107",Dalbeattie,"133151",Dee (Galloway),Urr Water,54.92987759,-3.840969588,Dumfries and Galloway
+"108",Daldowie,"133074",Clyde,Clyde,55.82998694,-4.121948322,Glasgow City
+"109",Dalgig,"133152",Nith,Nith,55.38782272,-4.277163013,East Ayrshire
+"110",Dalginross,"14967",Earn,Earn,56.37511953,-3.978605821,Perth and Kinross
+"111",Dalhousie Bridge,"14925",Esk Group,West Water,56.8021744,-2.67047775,Angus
+"112",Dalmore,"14873",Almond Group,North Esk (Lothian),55.84190258,-3.195905294,Midlothian
+"113",Dalnamein,"14960",Tay,Garry (Tayside),56.79925858,-4.053453634,Perth and Kinross
+"114",Dalry,"116020",Irvine and Ayr,Garnock,55.70198453,-4.716787117,North Ayrshire
+"115",Damleys Cottage,"14912",Firth of Forth Group,Greens Burn,56.22128534,-3.361631179,Perth and Kinross
+"116",Dargall Lane,"133153",Dee (Galloway),Dargall Lane,55.0785507,-4.428445527,Dumfries and Galloway
+"117",Dean Bridge,"14946",Tay,Dean Water,56.5988796,-3.153071161,Perth and Kinross
+"118",Deephope,"14986",Tweed,Tima Water,55.41241422,-3.141967218,Scottish Borders
+"119",Delnashaugh,"234198",Spey,Avon (Spey),57.39970792,-3.357845061,Moray
+"120",Dionard,"234330",Naver group,Dionard,58.49807306,-4.821196451,Highland
+"121",Dippen,"133077",Kintyre Group,Carradale Water,55.58274848,-5.496523588,Argyll and Bute
+"122",Diriebught House,"234200",Ness,Mill Burn,57.47804173,-4.207153032,Highland
+"123",Dosmucheran,"234202",Conon Group,Bran,57.59587318,-5.005770119,Highland
+"124",Dow Craig,"133183",Nith,Beoch Lane,55.37721095,-4.306229017,East Ayrshire
+"125",Dreghorn,"133078",Irvine and Ayr,Annick Water,55.61141199,-4.619377401,North Ayrshire
+"126",Drumlanrig,"133154",Nith,Nith,55.27462204,-3.799524299,Dumfries and Galloway
+"127",Dryfield,"133080",Clyde,Kelvin,55.93891825,-4.182216743,East Dunbartonshire
+"128",Duchray,"14904",Forth,Loch Ard Burn,56.15649685,-4.468109175,Stirling
+"129",Duchray Water,"554833",Forth,Duchray Water,56.19275854,-4.564061145,Stirling
+"130",Dunphail,"234206",Findhorn Group,Divie,57.51151031,-3.661788536,Moray
+"131",Durkadale,"234207",Orkneys,Durkadale Burn,59.10852817,-3.232172832,Orkney Islands
+"132",Earlston,"14997",Tweed,Leader Water,55.64075254,-2.691879301,Scottish Borders
+"133",Eas Daimh,"133081",Awe and Etive,Eas Daimh,56.40771881,-4.855886468,Argyll and Bute
+"134",East Linton,"14870",Tyne (Lothian),Tyne,55.98249658,-2.657198972,East Lothian
+"135",Easter Turnaig,"234209",Shin Group,Oykel,57.96185041,-4.700859639,Highland
+"136",Eglinton Castle,"133083",Irvine and Ayr,Lugton Water,55.64280886,-4.677656958,North Ayrshire
+"137",Ellon,"234210",Ythan Group,Ythan,57.36377128,-2.090017282,Aberdeenshire
+"138",Elphin,"368495",Laxford Group,Abhainn a Chnocain,58.05185192,-5.03101345,Highland
+"139",Elrig,"14905",Forth,Loch Ard Burn,56.15679797,-4.46563232,Stirling
+"140",Erchless,"377135",Beauly,Beauly,57.42804453,-4.623845183,Highland
+"141",Eyemouth Mill,"15017",Tweed,Eye Water,55.8651192,-2.095026904,Scottish Borders
+"142",Faich Bhiorach,"378262",Loch Maree group,Kerry,57.69020841,-5.660695458,Highland
+"143",Fairholm,"133084",Clyde,Avon Water,55.74419908,-3.986819701,South Lanarkshire
+"144",Fasnakyle,"234215",Beauly,Glass,57.31811088,-4.799267396,Highland
+"145",Fauld Mill,"14895",Forth,,56.11140757,-3.748668124,Clackmannanshire
+"146",Feshie Bridge,"234217",Spey,Feshie,57.11889938,-3.901082854,Highland
+"147",Fiddlers Ford,"133155",Nith,Cluden Water,55.09849668,-3.680572053,Dumfries and Galloway
+"148",Firhall,"234218",Findhorn Group,Nairn,57.57160708,-3.869783835,Highland
+"149",Forres,"234221",Findhorn Group,Findhorn,57.60477145,-3.644084919,Moray
+"150",Forter,"14948",Tay,Isla (Tayside),56.76674681,-3.332205729,Angus
+"151",Forteviot Bridge,"14970",Earn,Earn,56.34759942,-3.548359476,Perth and Kinross
+"152",Fountainhall,"14991",Tweed,Gala Water,55.73663595,-2.905930746,Scottish Borders
+"153",Foyers,"498342",Ness,Loch Ness,57.26265002,-4.483020773,Highland
+"154",Friars Carse,"133156",Nith,Nith,55.14868484,-3.690747738,Dumfries and Galloway
+"155",Gaidrew,"133086",Leven (Durnbartonshire),Endrick Water,56.04809931,-4.434505213,Stirling
+"156",Gairlochy,"559194",Lochy (Invernesshire),Lochy (Lochaber),56.91442441,-4.991445495,Highland
+"157",Galashiels,"9683",Tweed,Gala Water,55.62706185,-2.827709454,Scottish Borders
+"158",Gargunnock,"14892",Forth,Forth,56.13266077,-4.070571402,Stirling
+"159",Garthdee,"368014",Dee (Aberdeenshire),Dee (Grampian),57.11882365,-2.124396574,Aberdeen City
+"160",Garve,"234225",Conon Group,Blackwater,57.61669586,-4.688028816,Highland
+"161",Gella Bridge,"14916",Esk Group,South Esk (Angus),56.77535832,-3.027929218,Angus
+"162",Glassgreen,"581106",Findhorn Group,Linkwood Burn,57.63198387,-3.296482414,Moray
+"163",Glen Orchy,"133087",Awe and Etive,Orchy,56.44657591,-4.852749436,Argyll and Bute
+"164",Glen Strae,"133088",Awe and Etive,Strae,56.42522107,-5.000795867,Argyll and Bute
+"165",Glenbreck,"368490",Tweed,Tweed,55.48202196,-3.477754728,Scottish Borders
+"166",Glenfalloch,"133089",Leven (Durnbartonshire),Falloch,56.33773623,-4.717635246,Stirling
+"167",Glenfield Footbridge,"335374",Irvine and Ayr,Irvine,55.60118281,-4.493559809,East Ayrshire
+"168",Glenlochar,"133157",Dee (Galloway),Dee (Solway),54.95554151,-3.979143444,Dumfries and Galloway
+"169",Glenmeanie,"234227",Conon Group,Meig,57.53261438,-4.863772899,Highland
+"170",Glenochil,"14891",Forth,Devon,56.14364525,-3.839304837,Clackmannanshire
+"171",Gordon Arms,"14984",Tweed,Yarrow Water,55.51137227,-3.096406906,Scottish Borders
+"172",Grange,"234228",Deveron Group,Isla (Deveron),57.54279921,-2.847774986,Moray
+"173",Grantown,"234229",Spey,Spey,57.32177064,-3.606725707,Highland
+"174",Grantshouse,"15015",Tweed,Eye Water,55.88238352,-2.292035856,Scottish Borders
+"175",Graystone Bridge,"518372",Leven (Durnbartonshire),Endrick Water,56.0675405,-4.282616591,Stirling
+"176",Green Burn,"133158",Dee (Galloway),Green Burn,55.0828864,-4.381888551,Dumfries and Galloway
+"177",Greensands,"133159",Nith,Nith,55.06942626,-3.617944341,Dumfries and Galloway
+"178",Guthrie,"14924",Esk Group,Lunan Water,56.64274771,-2.706028939,Angus
+"179",Halkirk,"234231",Thurso Group,Thurso,58.5154974,-3.493004244,Highland
+"180",Hall Bridge,"133160",Nith,Nith,55.39297897,-4.079109518,Dumfries and Galloway
+"181",Halladale,"234232",Naver group,Halladale,58.47881083,-3.90301916,Highland
+"182",Happendon,"133092",Clyde,Douglas Water,55.5801981,-3.816796943,South Lanarkshire
+"183",Haughton,"234235",Don (Aberdeenshire),Don,57.27134676,-2.404963889,Aberdeenshire
+"184",Hawick,"15001",Tweed,Teviot,55.43447121,-2.756965079,Scottish Borders
+"185",Hawkhead,"133093",Clyde,White Cart Water,55.83606531,-4.398537371,Renfrewshire
+"186",Hazelbank,"133094",Clyde,Clyde,55.68735585,-3.854153414,South Lanarkshire
+"187",Headswood,"14886",Firth of Forth Group,Carron (Forth Valley),56.01500087,-3.875456793,Falkirk
+"188",Hermitage,"8402",Tay,Braan,56.5609809,-3.607201681,Perth and Kinross
+"189",Heugh Head,"234237",Dee (Aberdeenshire),Feugh,57.02524569,-2.517160888,Aberdeenshire
+"190",Hoodston Bridge,"133096",Irvine and Ayr,Cessnock Water,55.60122684,-4.428249956,East Ayrshire
+"191",Hottsbridge,"559081",Esk (Dumfriesshire),,55.09041993,-3.167804617,Dumfries and Galloway
+"192",Howard Park,"322555",Irvine and Ayr,Kilmarnock Water,55.60465827,-4.499004047,East Ayrshire
+"193",Huntly GS,"369548",Deveron Group,Deveron,57.45498575,-2.807560217,Aberdeenshire
+"194",Hutton Castle,"15020",Tweed,Whiteadder Water,55.7889,-2.1917,Scottish Borders
+"195",Innerleithen,"14981",Tweed,Leithen Water,55.61992749,-3.061056074,Scottish Borders
+"196",Inveran,"234240",Shin Group,Shin,57.94318903,-4.410383325,Highland
+"197",Inverbervie,"234241",Esk Group,Bervie,56.85144056,-2.286119413,Aberdeenshire
+"198",Inverbroom,"234242",Laxford Group,Broom,57.81047099,-5.058237756,Highland
+"199",Invergairn,"234243",Dee (Aberdeenshire),Gairn,57.05992614,-3.069535364,Aberdeenshire
+"200",Inveriscandye,"371579",Esk Group,North Esk (Tayside),56.79987798,-2.626620926,Aberdeenshire
+"201",Inverlaidnan Bridge,"535718",Spey,Dulnain,57.26705143,-3.883273172,Highland
+"202",Inverlochy,"133097",Awe and Etive,Lochy (Argyll),56.40496092,-4.923669812,Argyll and Bute
+"203",Invermark,"14926",Esk Group,Water of Mark,56.91121364,-2.914811966,Angus
+"204",Invermuick,"234247",Dee (Aberdeenshire),Muick,57.03951544,-3.049304978,Aberdeenshire
+"205",Inveroykel Bailey Bridge,"354624",Shin Group,Oykel,57.97362007,-4.604090887,Highland
+"206",Invertruim,"234248",Spey,Spey,57.04053804,-4.164639706,Highland
+"207",Inverugie,"234249",Ythan Group,Ugie,57.52669115,-1.832792272,Aberdeenshire
+"208",Inzion,"335641",Tay,Inzion,56.68930326,-3.177597556,Angus
+"209",Irvine Waterside,"327231",Irvine and Ayr,Irvine,55.61682305,-4.674740715,North Ayrshire
+"210",Ivy Bridge,"341495",Ness,Coilte,57.31837309,-4.497591991,Highland
+"211",Jedburgh,"15006",Tweed,Jed Water,55.48529122,-2.54668704,Scottish Borders
+"212",Johnstonehall,"559082",Annan,Mein Water,55.06482387,-3.221128314,Dumfries and Galloway
+"213",Kelly Den - Arbilot,"532820",Firth of Tay Group,Elliot Water,56.55248062,-2.640451372,Angus
+"214",Kemback,"14929",Firth of Tay Group,Eden (Fife),56.3309034,-2.948442952,Fife
+"215",Kenmore,"8295",Tay,Tay,56.59638815,-3.985061725,Perth and Kinross
+"216",Kerrow Wood,"234251",Beauly,Glass,57.34937628,-4.736427892,Highland
+"217",Kilbirnie,"494257",Irvine and Ayr,Garnock,55.75642821,-4.685378197,North Ayrshire
+"218",Killermont,"133099",Clyde,Kelvin,55.90623638,-4.307622592,East Dunbartonshire
+"219",Killiecrankie,"14958",Tay,Garry (Tayside),56.75025399,-3.79910265,Perth and Kinross
+"220",Killilan,"234252",Loch Alsh Group,Ling,57.31881832,-5.424835603,Highland
+"221",Killin,"14933",Tay,Dochart,56.45816211,-4.331876561,Stirling
+"222",Kilphedir,"234253",Helmsdale Group,Helmsdale,58.14138911,-3.702814019,Highland
+"223",Kilwinning,"133101",Irvine and Ayr,Garnock,55.64563956,-4.692060096,North Ayrshire
+"224",Kinbuck,"14890",Forth,Allan Water,56.2255551,-3.949530685,Stirling
+"225",Kincraig,"234254",Spey,Spey,57.12680642,-3.92521234,Highland
+"226",Kindrogan,"14955",Tay,Ardle,56.74926972,-3.544931301,Perth and Kinross
+"227",Kingledores,"14972",Tweed,Tweed,55.54240926,-3.413947163,Scottish Borders
+"228",Kinkell Bridge,"14968",Earn,Earn,56.33018709,-3.726992915,Perth and Kinross
+"229",Kinlochewe Lodge,"471362",Laxford Group,Abhainn Bruachaig,57.60438272,-5.291673059,Highland
+"230",Kinrara,"234257",Spey,Spey,57.15134199,-3.85017621,Highland
+"231",Kinross,"14903",Firth of Forth Group,South Queich,56.19853589,-3.422943515,Perth and Kinross
+"232",Kirkfieldbank,"124855",Clyde,Clyde,55.67631471,-3.803247871,South Lanarkshire
+"233",Kirkmuirhill,"133102",Clyde,Nethan,55.66506695,-3.893674093,South Lanarkshire
+"234",Kirkton Burn,"116005",Forth,Kirkton Burn,56.36683432,-4.377397065,Stirling
+"235",Kirkton Mill,"14923",Esk Group,Lunan Water,56.63544717,-2.564584008,Angus
+"236",Kirktown of Fetteresso,"463690",Esk Group,Carron Water,56.96107386,-2.24381097,Aberdeenshire
+"237",Ladyflat Farm,"368486",Tweed,Back Burn (Borders),55.75636712,-2.369501202,Scottish Borders
+"238",Lagganbeg,"396186",Leven (Durnbartonshire),Aber Burn,56.05128388,-4.52729393,West Dunbartonshire
+"239",Langholm A,"133103",Irvine and Ayr,Lugar Water,55.46679973,-4.362070221,East Ayrshire
+"240",Langholm Bridge,"506155",Esk (Dumfriesshire),Esk (Solway),55.1521906,-3.000489189,Dumfries and Galloway
+"241",Langwell Lodge,"354621",Laxford Group,Canaird,57.9748238,-5.100589967,Highland
+"242",Lathro,"14902",Firth of Forth Group,North Queich,56.2213192,-3.42872292,Perth and Kinross
+"243",Lauder (New Mills),"14996",Tweed,Leader Water,55.73932168,-2.755976423,Scottish Borders
+"244",Laxdale,"356217",Outer Hebrides,Laxdale,57.86865846,-6.893581696,Na h-Eileanan an Iar
+"245",Laxford Bridge,"234260",Laxford Group,Laxford,58.37221983,-4.991457712,Highland
+"246",Lennox Castle,"133104",Clyde,Glazert Water,55.98029455,-4.220982816,East Dunbartonshire
+"247",Lennoxlove,"14874",Tyne (Lothian),Gifford Water,55.93584934,-2.784195821,East Lothian
+"248",Letham,"133105",Clyde,Earn Water,55.76643914,-4.284272139,East Renfrewshire
+"249",Levishie,"234262",Ness,Moriston,57.22003826,-4.647834071,Highland
+"250",Liberton,"14876",Almond Group,Braid Burn,55.92458009,-3.165787507,City of Edinburgh
+"251",Limmerhaugh,"542772",Irvine and Ayr,Ayr,55.51674252,-4.189197017,East Ayrshire
+"252",Lindean,"14990",Tweed,Ettrick Water,55.57486097,-2.816174621,Scottish Borders
+"253",Links Farm,"368493",Tay,Isla (Tayside),56.53282434,-3.339459645,Perth and Kinross
+"254",Linnbrane,"133107",Leven (Durnbartonshire),Leven (Loch Lomond),55.98877125,-4.57598193,West Dunbartonshire
+"255",Little Assynt,"234264",Laxford Group,Inver,58.17438109,-5.152302768,Highland
+"256",Littlemill,"234265",Dee (Aberdeenshire),Girnock Burn,57.04544067,-3.118285636,Aberdeenshire
+"257",Loakmill No 2,"474477",Tay,Garry Burn,56.49180756,-3.508004624,Perth and Kinross
+"258",Loch A Bhraoin,"356328",Laxford Group,Loch A Bhraoin,57.72829261,-5.098319842,Highland
+"259",Loch Ailsh Level,"354613",Shin Group,Oykel,58.04827715,-4.855312073,Highland
+"260",Loch Ard,"554837",Forth,Forth,56.18379617,-4.422949664,Stirling
+"261",Loch Beannacharain,"473090",Conon Group,Meig,57.5217999,-4.95927599,Highland
+"262",Loch Dee Outlet,"133163",Dee (Galloway),Blackwater of Dee,55.08809918,-4.386053697,Dumfries and Galloway
+"263",Loch Flemington,"234267",Ness,Loch Flemington,57.54236344,-3.993033026,Highland
+"264",Loch Katrine,"14910",Forth,Achray Water,56.22701614,-4.43624573,Stirling
+"265",Loch Leven Sluices,"477620",Firth of Forth Group,Leven (Fife),56.17937821,-3.335224928,Perth and Kinross
+"266",Loch Maree,"473675",Loch Maree group,Loch Maree,57.6695583,-5.447154185,Highland
+"267",Loch Naver,"234268",Naver group,Loch Naver,58.28571328,-4.389718176,Highland
+"268",Loch Tormasad,"354622",Outer Hebrides,Tormasad,57.56195723,-7.316740973,Na h-Eileanan an Iar
+"269",Loch Vaa,"579464",Spey,Loch Vaa,57.23627646,-3.803196316,Highland
+"270",Loch Venachar,"14898",Forth,Eas Gobhain,56.23425763,-4.25686637,Stirling
+"271",Lochindorb Level,"115371",Findhorn Group,Lochindorb,57.39798722,-3.714675739,Highland
+"272",Lochwinnoch,"509677",Clyde,Black Cart Water,55.78853152,-4.618943233,Renfrewshire
+"273",Logie Bridge,"567430",Findhorn Group,Findhorn,57.49449251,-3.736619229,Highland
+"274",Logie Mill,"14927",Esk Group,North Esk (Tayside),56.7668773,-2.493365398,Aberdeenshire
+"275",Low Malzie,"133167",Cree,Bladnoch,54.85901864,-4.522077924,Dumfries and Galloway
+"276",Lower Monachyle,"116006",Forth,,56.37472206,-4.4712587,Stirling
+"277",Luffness,"14865",Tyne (Lothian),Peffer Burn (West),56.02022484,-2.821888561,East Lothian
+"278",Luncarty,"14940",Tay,Ordie Burn,56.46394135,-3.477636063,Perth and Kinross
+"279",Luss,"133108",Leven (Durnbartonshire),Luss Water,56.10033657,-4.644123033,Argyll and Bute
+"280",Luther Bridge,"14928",Esk Group,Luther Water,56.7936908,-2.55997015,Aberdeenshire
+"281",Lyne Ford,"14973",Tweed,Tweed,55.64466586,-3.263056512,Scottish Borders
+"282",Lyne Station,"14974",Tweed,Lyne Water,55.64733183,-3.25808918,Scottish Borders
+"283",Maidencots,"133110",Clyde,Duneaton Water,55.51579546,-3.695370189,South Lanarkshire
+"284",Mainholm,"133111",Irvine and Ayr,Ayr,55.46104476,-4.592546164,South Ayrshire
+"285",Mar Lodge,"234274",Dee (Aberdeenshire),Dee (Grampian),56.98804049,-3.486197825,Aberdeenshire
+"286",Marble Lodge,"14959",Tay,Tilt,56.82242289,-3.816539353,Perth and Kinross
+"287",March Street,"14976",Tweed,Eddleston Water,55.6553291,-3.19057537,Scottish Borders
+"288",Meikle Kinord,"356327",Dee (Aberdeenshire),Loch Kinord,57.07826247,-2.921345756,Aberdeenshire
+"289",Meikleholm Bridge,"504722",Annan,Annan,55.36209214,-3.462380402,Dumfries and Galloway
+"290",Mill Bank,"14945",Tay,Lunan Burn,56.54503404,-3.333677733,Perth and Kinross
+"291",Mill Croft,"354623",Outer Hebrides,Abhainn Roag,57.2886568,-7.368331541,Na h-Eileanan an Iar
+"292",Mill of Keithfield,"368494",Ythan Group,Keithfield Burn,57.39549598,-2.268170959,Aberdeenshire
+"293",Mill of Tore,"234277",Ness,Enrick,57.33389585,-4.575831167,Highland
+"294",Milliken Park,"133112",Clyde,Black Cart Water,55.82523457,-4.537788828,Renfrewshire
+"295",Milngavie,"133113",Clyde,Allander Water,55.93341456,-4.309062631,East Dunbartonshire
+"296",Milton,"14907",Forth,Avondhu Burn,56.18112306,-4.412580797,Stirling
+"297",Milton of Campsie,"133114",Clyde,Glazert Water,55.95994689,-4.153697207,East Dunbartonshire
+"298",Minmore,"234279",Spey,Livet,57.34451357,-3.328222906,Moray
+"299",Minnoch Bridge,"133168",Cree,Water of Minnoch,55.03887143,-4.563503023,Dumfries and Galloway
+"300",Moar,"14949",Tay,Lyon,56.57276553,-4.388958153,Perth and Kinross
+"301",Monyquil Farm,"133115",Kintyre Group,Machrie Water,55.56419458,-5.271931931,North Ayrshire
+"302",Mossknowe,"133169",Esk (Dumfriesshire),Kirtle Water,55.01280562,-3.119586538,Dumfries and Galloway
+"303",Mouthbridge,"15022",Tweed,Blackadder Water,55.77012815,-2.279193263,Scottish Borders
+"304",Moy Bridge,"234284",Conon Group,Conon,57.55657789,-4.539965573,Highland
+"305",Muiresk,"234286",Deveron Group,Deveron,57.53766592,-2.493533301,Aberdeenshire
+"306",Murray Burn,"372859",Tyne (Lothian),Murray Burn,55.91287677,-3.317681386,City of Edinburgh
+"307",Murrayfield,"14868",Almond Group,Water of Leith,55.94563152,-3.237786767,City of Edinburgh
+"308",Murton,"335650",Esk Group,Lunan Water,56.65077608,-2.823539396,Angus
+"309",Musselburgh,"635",Almond Group,Esk (Lothian),55.93950941,-3.060909073,East Lothian
+"310",Ness-side,"234287",Ness,Ness,57.4545366,-4.259846808,Highland
+"311",New Kelso,"234289",Loch Alsh Group,Carron (Wester Ross),57.42953514,-5.429999168,Highland
+"312",Newcastleton,"133170",Esk (Dumfriesshire),Liddel Water,55.17647238,-2.81316152,Scottish Borders
+"313",Newhall Bridge,"234290",Conon Group,Newhall Burn,57.65781737,-4.17662641,Highland
+"314",Newliston,"14882",Tyne (Lothian),Brox Burn (East Lothian),55.9429625,-3.420216359,City of Edinburgh
+"315",Newmilns,"133117",Irvine and Ayr,Irvine,55.60610732,-4.331033075,East Ayrshire
+"316",Newton Bridge,"14953",Tay,Almond (Tayside),56.4611514,-3.799234379,Perth and Kinross
+"317",Newton Stewart,"133171",Cree,Cree,54.95726338,-4.480525846,Dumfries and Galloway
+"318",Norham,"9514",Tweed,Tweed,55.72229365,-2.163435109,
+"319",Nungate,"14909",Tyne (Lothian),Tyne,55.95402395,-2.771735305,East Lothian
+"320",Ormiston Mill,"15007",Tweed,Teviot,55.54491924,-2.473314492,Scottish Borders
+"321",Overlee,"133118",Clyde,White Cart Water,55.78987786,-4.266853356,East Renfrewshire
+"322",Oxgang,"133119",Clyde,Luggie Water,55.9354055,-4.13808503,East Dunbartonshire
+"323",Park,"234291",Dee (Aberdeenshire),Dee (Grampian),57.075424,-2.335825098,Aberdeenshire
+"324",Parkhill,"234292",Don (Aberdeenshire),Don,57.21832146,-2.187586406,Aberdeenshire
+"325",Peebles,"14979",Tweed,Tweed,55.64758358,-3.180313467,Scottish Borders
+"326",Perth,"10048",Tay,Tay,56.41191473,-3.434206313,Perth and Kinross
+"327",Peter s Bridge,"336365",Conon Group,Cromarty Coastal,57.59839179,-4.428885478,Highland
+"328",Philiphaugh,"14985",Tweed,Yarrow Water,55.53980549,-2.890068293,Scottish Borders
+"329",Pitcaple,"234293",Don (Aberdeenshire),Urie,57.32351879,-2.464869508,Aberdeenshire
+"330",Pitlochry,"14963",Tay,Tummel,56.69656771,-3.720794881,Perth and Kinross
+"331",Pitnacree,"14935",Tay,Tay,56.66006824,-3.756901303,Perth and Kinross
+"332",Pluscarden Abbey,"486057",Findhorn Group,Black Burn,57.59946107,-3.433170424,Moray
+"333",Polhollick,"234294",Dee (Aberdeenshire),Dee (Grampian),57.05514629,-3.083180673,Aberdeenshire
+"334",Polloch,"234295",Loch Sheil Group,Allt Coire nan Con,56.75844885,-5.613663683,Highland
+"335",Polmonthill,"14884",Firth of Forth Group,Avon (Forth Valley),55.99837265,-3.681998769,Falkirk
+"336",Poolewe,"234296",Loch Maree group,Ewe,57.76144201,-5.599076889,Highland
+"337",Prosen Bridge,"14915",Esk Group,Prosen Water,56.71469976,-2.988763564,Angus
+"338",Quinloch Bridge,"517413",Leven (Durnbartonshire),Blane Water,56.00926669,-4.375847831,Stirling
+"339",Red Bridge,"234297",Beauly,Beauly,57.45461034,-4.494575811,Highland
+"340",Redcraig,"234298",Deveron Group,Bogie,57.42475756,-2.802015318,Aberdeenshire
+"341",Redhall,"133175",Annan,Kinnel Water,55.16743102,-3.450205295,Dumfries and Galloway
+"342",Redlees,"133122",Clyde,Rotten Calder Water,55.81909284,-4.108983791,South Lanarkshire
+"343",Renagour Bridge,"554836",Forth,Duchray Water,56.17693404,-4.418601789,Stirling
+"344",Rhidorroch,"356990",Laxford Group,Ullapool,57.90929699,-5.117024011,Highland
+"345",Robstone,"133123",Doon Group,Water of Girvan,55.25880544,-4.807721027,South Ayrshire
+"346",Rosehall,"234300",Shin Group,Cassley,57.98210062,-4.586149187,Highland
+"347",Ross Priory,"133124",Leven (Durnbartonshire),Loch Lomond,56.05257642,-4.55746111,West Dunbartonshire
+"348",Rowanburnfoot,"133176",Esk (Dumfriesshire),Liddel Water,55.07463868,-2.918221754,Dumfries and Galloway
+"349",Royal Brackla Lade,"581105",Findhorn Group,Unnamed trib of Nairn,57.55531817,-3.887903021,Highland
+"350",Rusko,"133177",Cree,Water of Fleet,54.90579321,-4.197617244,Dumfries and Galloway
+"351",Sgodachail,"234305",Shin Group,Carron (Sutherland),57.89327664,-4.546976399,Highland
+"352",Shenachie,"234306",Findhorn Group,Findhorn,57.37739614,-3.954996467,Highland
+"353",Sheriffmills,"234307",Findhorn Group,Lossie,57.64636934,-3.351933142,Moray
+"354",Shewalton,"133125",Irvine and Ayr,Irvine,55.59709275,-4.627788758,North Ayrshire
+"355",Shielfoot,"234310",Loch Alsh Group,Shiel,56.76454538,-5.820892452,Highland
+"356",Shiplaw,"14975",Tweed,Eddleston Water,55.72796917,-3.207291434,Scottish Borders
+"357",Sills of Clyde,"133126",Clyde,Clyde,55.66312399,-3.70505823,South Lanarkshire
+"358",Skeabost,"234313",Inner Hebrides,Snizort,57.45437017,-6.311235369,Highland
+"359",Spey Dam,"234315",Spey,Spey,57.01121062,-4.336367491,Highland
+"360",Spiers Bridge,"133128",Clyde,Auldhouse Burn,55.80186787,-4.32218584,East Renfrewshire
+"361",Spilmersford,"14871",Tyne (Lothian),Tyne,55.9100322,-2.871497598,East Lothian
+"362",Sprouston,"15012",Tweed,Tweed,55.61103047,-2.395690658,Scottish Borders
+"363",St Michaels,"14930",Firth of Tay Group,Motray Water,56.3903691,-2.908114188,Fife
+"364",Sterling Mills Gauging Station,"532968",Forth,Devon,56.14812902,-3.738809826,Clackmannanshire
+"365",Stobs Castle,"345032",Tweed,Slitrig,55.38179195,-2.780516606,Scottish Borders
+"366",Strathmiglo,"14931",Firth of Tay Group,Eden (Fife),56.27758355,-3.253078016,Fife
+"367",Strathpeffer,"234316",Conon Group,Peffery,57.59297854,-4.523041423,Highland
+"368",Strathy Bridge,"234319",Naver group,Strathy,58.55872143,-4.002604762,Highland
+"369",Struy,"234321",Beauly,Farrar,57.42569662,-4.682400374,Highland
+"370",Tannadice,"14918",Esk Group,South Esk (Angus),56.7088965,-2.857771833,Angus
+"371",Tarroul,"234324",Wick Group,Wick,58.47619579,-3.267060495,Highland
+"372",Teviothead,"14999",Tweed,Teviot,55.34222734,-2.936481216,Scottish Borders
+"373",Tromie Bridge,"234327",Spey,Tromie,57.0717185,-3.998638147,Highland
+"374",Tulliford Mill,"133130",Clyde,Clyde,55.64374172,-3.75902119,South Lanarkshire
+"375",Turnhouse,"14883",Almond Group,Gogar Burn,55.94528452,-3.345442654,City of Edinburgh
+"376",Unthank Bridge,"506153",Esk (Dumfriesshire),Ewes Water,55.24336243,-2.967499315,Dumfries and Galloway
+"377",Upper Monachyle,"116007",Forth,Monachyle,56.39271229,-4.463706898,Stirling
+"378",Victoria Bridge,"133131",Awe and Etive,Linne nam Beathach,56.53983375,-4.813560642,Argyll and Bute
+"379",Wardend Bridge,"234331",Findhorn Group,Mosset Burn,57.58239454,-3.608335401,Moray
+"380",Waterhead,"133178",Nith,Nith,55.37439338,-4.304549757,East Ayrshire
+"381",Waterside,"133133",Clyde,Kittoch Water,55.77868352,-4.240656047,South Lanarkshire
+"382",Waterside Perth,"369554",Esk Group,North Esk (Tayside),56.89929851,-2.820760629,Angus
+"383",Weisdale Mill,"116008",Shetlands,Weisdale Burn,60.2593269,-1.288604022,Shetland Islands
+"384",Wellsies Burn,"368491",Tay,,56.52284051,-3.293836481,Perth and Kinross
+"385",Wellwood,"133135",Irvine and Ayr,Ayr,55.5109582,-4.123670365,East Ayrshire
+"386",Wester Cardean,"14944",Tay,Isla (Tayside),56.60590455,-3.151232647,Angus
+"387",Wheeb Bridge,"502896",Cree,Cree,55.09004091,-4.661771619,Dumfries and Galloway
+"388",Whitburn,"14881",Almond Group,Almond (Lothian),55.87157334,-3.682936938,West Lothian
+"389",White Bridge,"355980",Ness,Enrick,57.33362742,-4.673089381,Highland
+"390",White Laggan,"133180",Dee (Galloway),White Laggan,55.07382387,-4.401198238,Dumfries and Galloway
+"391",Whitesands,"133181",Nith,Nith,55.06536955,-3.610749368,Dumfries and Galloway
+"392",Woodend,"234333",Dee (Aberdeenshire),Dee (Grampian),57.0501291,-2.603567118,Aberdeenshire
+"393",Woodfoot,"133182",Annan,Annan,55.29395422,-3.41903487,Dumfries and Galloway
