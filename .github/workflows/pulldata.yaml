@@ -32,15 +32,15 @@ jobs:
           source('scripts/SEPA_API_list.R')
       shell: Rscript {0}
       
-    - name: Rainfall
-      run: |
-          source('scripts/RainfallSEPA.R')
-      shell: Rscript {0}
-
-    - name: Waterlevels
-      run: |
-          source('scripts/WaterLevelsSEPA.R')
-      shell: Rscript {0}
+#    - name: Rainfall
+#      run: |
+#          source('scripts/RainfallSEPA.R')
+#      shell: Rscript {0}
+#
+#    - name: Waterlevels
+#      run: |
+#          source('scripts/WaterLevelsSEPA.R')
+#      shell: Rscript {0}
     
       
  # commit & push
