@@ -1,11 +1,4 @@
 "#Timestamp","15min value","name","la","station_id"
-"2024-09-09T19:15:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T19:30:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T19:45:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T20:00:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T20:15:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T20:30:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T20:45:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
 "2024-09-09T21:00:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
 "2024-09-09T21:15:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
 "2024-09-09T21:30:00.000Z",0.159,"Allt A' Ghlas-Charnaich","Highland",368538
@@ -142,13 +135,14 @@
 "2024-09-11T06:15:00.000Z",0.629,"Allt A' Ghlas-Charnaich","Highland",368538
 "2024-09-11T06:30:00.000Z",0.602,"Allt A' Ghlas-Charnaich","Highland",368538
 "2024-09-11T06:45:00.000Z",0.636,"Allt A' Ghlas-Charnaich","Highland",368538
-"2024-09-09T19:15:00.000Z",0.706,"Glenfalloch","Stirling",133089
-"2024-09-09T19:30:00.000Z",0.709,"Glenfalloch","Stirling",133089
-"2024-09-09T19:45:00.000Z",0.714,"Glenfalloch","Stirling",133089
-"2024-09-09T20:00:00.000Z",0.721,"Glenfalloch","Stirling",133089
-"2024-09-09T20:15:00.000Z",0.725,"Glenfalloch","Stirling",133089
-"2024-09-09T20:30:00.000Z",0.729,"Glenfalloch","Stirling",133089
-"2024-09-09T20:45:00.000Z",0.73,"Glenfalloch","Stirling",133089
+"2024-09-11T07:00:00.000Z",0.634,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T07:15:00.000Z",0.634,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T07:30:00.000Z",0.624,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T07:45:00.000Z",0.655,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T08:00:00.000Z",0.629,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T08:15:00.000Z",0.593,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T08:30:00.000Z",0.623,"Allt A' Ghlas-Charnaich","Highland",368538
+"2024-09-11T08:45:00.000Z",0.613,"Allt A' Ghlas-Charnaich","Highland",368538
 "2024-09-09T21:00:00.000Z",0.733,"Glenfalloch","Stirling",133089
 "2024-09-09T21:15:00.000Z",0.74,"Glenfalloch","Stirling",133089
 "2024-09-09T21:30:00.000Z",0.747,"Glenfalloch","Stirling",133089
@@ -279,13 +273,14 @@
 "2024-09-11T04:45:00.000Z",0.871,"Glenfalloch","Stirling",133089
 "2024-09-11T05:00:00.000Z",0.87,"Glenfalloch","Stirling",133089
 "2024-09-11T05:15:00.000Z",0.869,"Glenfalloch","Stirling",133089
-"2024-09-09T19:15:00.000Z",0.818,"Langwell Lodge","Highland",354621
-"2024-09-09T19:30:00.000Z",0.818,"Langwell Lodge","Highland",354621
-"2024-09-09T19:45:00.000Z",0.818,"Langwell Lodge","Highland",354621
-"2024-09-09T20:00:00.000Z",0.819,"Langwell Lodge","Highland",354621
-"2024-09-09T20:15:00.000Z",0.82,"Langwell Lodge","Highland",354621
-"2024-09-09T20:30:00.000Z",0.821,"Langwell Lodge","Highland",354621
-"2024-09-09T20:45:00.000Z",0.821,"Langwell Lodge","Highland",354621
+"2024-09-11T05:30:00.000Z",0.867,"Glenfalloch","Stirling",133089
+"2024-09-11T05:45:00.000Z",0.869,"Glenfalloch","Stirling",133089
+"2024-09-11T06:00:00.000Z",0.87,"Glenfalloch","Stirling",133089
+"2024-09-11T06:15:00.000Z",0.872,"Glenfalloch","Stirling",133089
+"2024-09-11T06:30:00.000Z",0.874,"Glenfalloch","Stirling",133089
+"2024-09-11T06:45:00.000Z",0.877,"Glenfalloch","Stirling",133089
+"2024-09-11T07:00:00.000Z",0.88,"Glenfalloch","Stirling",133089
+"2024-09-11T07:15:00.000Z",0.881,"Glenfalloch","Stirling",133089
 "2024-09-09T21:00:00.000Z",0.823,"Langwell Lodge","Highland",354621
 "2024-09-09T21:15:00.000Z",0.825,"Langwell Lodge","Highland",354621
 "2024-09-09T21:30:00.000Z",0.826,"Langwell Lodge","Highland",354621
@@ -422,13 +417,14 @@
 "2024-09-11T06:15:00.000Z",1.285,"Langwell Lodge","Highland",354621
 "2024-09-11T06:30:00.000Z",1.276,"Langwell Lodge","Highland",354621
 "2024-09-11T06:45:00.000Z",1.268,"Langwell Lodge","Highland",354621
-"2024-09-09T19:15:00.000Z",0.634,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T19:30:00.000Z",0.639,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T19:45:00.000Z",0.64,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T20:00:00.000Z",0.635,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T20:15:00.000Z",0.634,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T20:30:00.000Z",0.639,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T20:45:00.000Z",0.634,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T07:00:00.000Z",1.259,"Langwell Lodge","Highland",354621
+"2024-09-11T07:15:00.000Z",1.252,"Langwell Lodge","Highland",354621
+"2024-09-11T07:30:00.000Z",1.246,"Langwell Lodge","Highland",354621
+"2024-09-11T07:45:00.000Z",1.241,"Langwell Lodge","Highland",354621
+"2024-09-11T08:00:00.000Z",1.238,"Langwell Lodge","Highland",354621
+"2024-09-11T08:15:00.000Z",1.236,"Langwell Lodge","Highland",354621
+"2024-09-11T08:30:00.000Z",1.238,"Langwell Lodge","Highland",354621
+"2024-09-11T08:45:00.000Z",1.243,"Langwell Lodge","Highland",354621
 "2024-09-09T21:00:00.000Z",0.633,"Loch Leven Sluices","Perth and Kinross",477620
 "2024-09-09T21:15:00.000Z",0.634,"Loch Leven Sluices","Perth and Kinross",477620
 "2024-09-09T21:30:00.000Z",0.63,"Loch Leven Sluices","Perth and Kinross",477620
@@ -564,13 +560,15 @@
 "2024-09-11T06:00:00.000Z",0.617,"Loch Leven Sluices","Perth and Kinross",477620
 "2024-09-11T06:15:00.000Z",0.618,"Loch Leven Sluices","Perth and Kinross",477620
 "2024-09-11T06:30:00.000Z",0.618,"Loch Leven Sluices","Perth and Kinross",477620
-"2024-09-09T19:15:00.000Z",1.041,"Loch Vaa","Highland",579464
-"2024-09-09T19:30:00.000Z",1.039,"Loch Vaa","Highland",579464
-"2024-09-09T19:45:00.000Z",1.041,"Loch Vaa","Highland",579464
-"2024-09-09T20:00:00.000Z",1.04,"Loch Vaa","Highland",579464
-"2024-09-09T20:15:00.000Z",1.041,"Loch Vaa","Highland",579464
-"2024-09-09T20:30:00.000Z",1.041,"Loch Vaa","Highland",579464
-"2024-09-09T20:45:00.000Z",1.04,"Loch Vaa","Highland",579464
+"2024-09-11T06:45:00.000Z",0.62,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T07:00:00.000Z",0.618,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T07:15:00.000Z",0.617,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T07:30:00.000Z",0.619,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T07:45:00.000Z",0.62,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T08:00:00.000Z",0.619,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T08:15:00.000Z",0.619,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T08:30:00.000Z",0.617,"Loch Leven Sluices","Perth and Kinross",477620
+"2024-09-11T08:45:00.000Z",0.619,"Loch Leven Sluices","Perth and Kinross",477620
 "2024-09-09T21:00:00.000Z",1.04,"Loch Vaa","Highland",579464
 "2024-09-09T21:15:00.000Z",1.041,"Loch Vaa","Highland",579464
 "2024-09-09T21:30:00.000Z",1.041,"Loch Vaa","Highland",579464
@@ -707,3 +705,11 @@
 "2024-09-11T06:15:00.000Z",1.038,"Loch Vaa","Highland",579464
 "2024-09-11T06:30:00.000Z",1.037,"Loch Vaa","Highland",579464
 "2024-09-11T06:45:00.000Z",1.037,"Loch Vaa","Highland",579464
+"2024-09-11T07:00:00.000Z",1.037,"Loch Vaa","Highland",579464
+"2024-09-11T07:15:00.000Z",1.038,"Loch Vaa","Highland",579464
+"2024-09-11T07:30:00.000Z",1.037,"Loch Vaa","Highland",579464
+"2024-09-11T07:45:00.000Z",1.038,"Loch Vaa","Highland",579464
+"2024-09-11T08:00:00.000Z",1.038,"Loch Vaa","Highland",579464
+"2024-09-11T08:15:00.000Z",1.038,"Loch Vaa","Highland",579464
+"2024-09-11T08:30:00.000Z",1.038,"Loch Vaa","Highland",579464
+"2024-09-11T08:45:00.000Z",1.039,"Loch Vaa","Highland",579464
