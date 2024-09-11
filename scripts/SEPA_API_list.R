@@ -67,28 +67,28 @@ write.csv(rainfall_months, "data/rainfall_monthly.csv", row.names = FALSE)
 ##### GROUNDWATER LEVEL #########
 ## parametertype_name=GWLVL
 
-groundwater_all <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getStationList&parametertype_name=GWLVL&returnfields=station_name,%20station_no,%20catchment_name,%20river_name,%20station_latitude,%20station_longitude&format=csv", dec = ".")
+#groundwater_all <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getStationList&parametertype_name=GWLVL&returnfields=station_name,%20station_no,%20catchment_name,%20river_name,%20station_latitude,%20station_longitude&format=csv", dec = ".")
 
-groundwater_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=GWLVL&returnfields=site_no,%20station_no,%20station_name,%20stationparameter_no,%20ts_shortname,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".")
+#groundwater_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=GWLVL&returnfields=site_no,%20station_no,%20station_name,%20stationparameter_no,%20ts_shortname,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".")
 
-write.csv(groundwater_all, "data/gw_stations.csv", row.names = FALSE)
+#write.csv(groundwater_all, "data/gw_stations.csv", row.names = FALSE)
 
 ##### RIVER FLOW #########
 ## parametertype_name=Q
 
-flow_all <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getStationList&parametertype_name=Q&returnfields=station_name,%20station_no,%20catchment_name,%20river_name,%20station_latitude,%20station_longitude&format=csv", dec = ".")
+#flow_all <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getStationList&parametertype_name=Q&returnfields=station_name,%20station_no,%20catchment_name,%20river_name,%20station_latitude,%20station_longitude&format=csv", dec = ".")
 
-flow_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=Q&returnfields=site_no,%20station_no,%20stationparameter_no,%20ts_shortname,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".")
+#flow_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=Q&returnfields=site_no,%20station_no,%20stationparameter_no,%20ts_shortname,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".")
 
-write.csv(flow_all, "data/flow_stations.csv", row.names = FALSE)
+#write.csv(flow_all, "data/flow_stations.csv", row.names = FALSE)
 
 
 
 ##### TIDAL LEVEL #########
 ## parametertype_name=TideLVL
 
-tidal_all <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getStationList&parametertype_name=TideLVL&returnfields=station_name,%20station_no,%20catchment_name,%20river_name,%20station_latitude,%20station_longitude&format=csv", dec = ".")
+#tidal_all <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getStationList&parametertype_name=TideLVL&returnfields=station_name,%20station_no,%20catchment_name,%20river_name,%20station_latitude,%20station_longitude&format=csv", dec = ".")
 
-tidal_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=TideLVL&returnfields=site_no,%20station_no,%20stationparameter_no,%20ts_shortname,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".")
+#tidal_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=TideLVL&returnfields=site_no,%20station_no,%20stationparameter_no,%20ts_shortname,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".")
 
-write.csv(tidal_all, "data/tidal_stations.csv", row.names = FALSE)
+#write.csv(tidal_all, "data/tidal_stations.csv", row.names = FALSE)
