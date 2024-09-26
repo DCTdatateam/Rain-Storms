@@ -178,6 +178,7 @@ checking_highs_compare <- checking_highs %>%
 write.csv(checking_highs_compare,"data/waterlevels/checking_highs_compare.csv", row.names = FALSE)
 
 ######################################################################
+################### 15 Min data ######################################
 
 # get timeseries ids
 waterlevels_available_timings <- read.csv2("https://timeseries.sepa.org.uk/KiWIS/KiWIS?service=kisters&type=queryServices&datasource=0&request=getTimeseriesList&parametertype_name=S&returnfields=site_no,%20station_no,%20station_name,%20stationparameter_no,%20ts_shortname,%20ts_id,%20coverage&dateformat=yyyy-MM-dd%20HH:mm:ss&format=csv", dec = ".") %>% 
