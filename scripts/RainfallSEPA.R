@@ -64,7 +64,7 @@ map_totals <- map_totals %>%
 write.csv(map_totals, "data/rain/36hoursGeography.csv", row.names = FALSE)
 
 ###########################################################
-####################### FILTER ############################
+####################### MAIN FILTER ############################
 ## Now we can filter to find the stations to visualise
 ## First a number filter
 ## This should be set to >70 during periods of high rainfall
@@ -78,7 +78,7 @@ most_rain_patch <- most_rain %>%
            la == "Moray" | la ==  "Angus" | la == "Dundee City" | la == "Fife" |
            la == "Perth and Kinross" | la == "Stirling")
 
-####################### FILTER END############################
+#######################MAIN FILTER END############################
 ##############################################################
 ## Add a message here if they are empty
 
@@ -105,7 +105,7 @@ process_hourly_data <- function(id, name, la) {
   timeseries_url <-paste0("https://timeseries.sepa.org.uk/KiWIS/KiWIS?",
                           "service=kisters&type=queryServices&datasource=0&request=getTimeseriesValues",
                           "&ts_id=", id,
-                          "&period=P36H&returnfields=Timestamp,%20Value,%20Quality%20Code&format=csv")
+                          "&period=P3D&returnfields=Timestamp,%20Value,%20Quality%20Code&format=csv")
   hourly_df <- read_csv2(timeseries_url, skip = 2, col_types = cols(.default = "c"))
   
   hourly_df <- hourly_df %>%
